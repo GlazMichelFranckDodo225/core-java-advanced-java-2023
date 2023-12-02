@@ -1,4 +1,4 @@
-package com.dgmf.cdatatypeconversion.bexplicitdatatypeconversion;
+package com.dgmf.subject4datatypeconversion;
 
 public class ExplicitDatatypeConversion {
 

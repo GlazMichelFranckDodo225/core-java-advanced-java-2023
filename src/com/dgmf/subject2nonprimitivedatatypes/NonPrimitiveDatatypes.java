@@ -1,4 +1,4 @@
-package com.dgmf.bnonprimitivedatatypes;
+package com.dgmf.subject2nonprimitivedatatypes;
 
 public class NonPrimitiveDatatypes {
 

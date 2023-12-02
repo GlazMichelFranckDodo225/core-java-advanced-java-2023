@@ -1,4 +1,4 @@
-package com.dgmf.aprimitivedatatypes;
+package com.dgmf.subject1primitivedatatypes;
 
 public class PrimitiveDataTypes {
 
